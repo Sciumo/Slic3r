@@ -1,3 +1,5 @@
+# This is fork of the [original github Slic3r](https://github.com/alexrj/Slic3r) project focusing on Makergear Mosaic M1 improvements.
+
 _Q: Oh cool, a new RepRap slicer?_
 
 A: Yes.
